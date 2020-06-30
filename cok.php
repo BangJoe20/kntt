@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Makasar');
-include "function.php";
+include "Function.php";
 ulang:
 // function change(){
 echo color("red","             SCRIPT GRATIS TIDAK DI JUAL \n");
